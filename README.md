@@ -212,14 +212,15 @@ const miguel = {
 2023 – 2025  ───────────────────────────────────────────────────────
       ▸  Played Fortnite and GTA
       ▸  Procrastinated
-      ▸  School went in one ear and out the other
-      ▸  (this is accurate and I stand by it)
+      ▸  School: in one ear, out the other — always
+      ▸  Spent class time in my head, thinking about projects
 
 Apr 2026  ──────────────────────────────────────────────────────────
       ▸  Signed up for Claude Code — just to try it for a month
       ▸  Got addicted immediately
       ▸  Started running 2–3 AIs simultaneously (Claude, Codex, Antigravity)
-      ▸  School became the place where I plan projects in my notebook
+      ▸  School became my R&D lab — notebook full of project ideas
+      ▸  Still passing without studying (30 min the night before, max)
       ▸  Open 4 new projects per week, ship 1 — that's the ratio
       ◎  [ present ] — still procrastinating, but shipping things now
 ```
