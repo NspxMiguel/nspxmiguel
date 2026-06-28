@@ -95,11 +95,11 @@ const miguel = {
 
 | Project | Description | Stack | Status |
 |:-------:|:-----------:|:-----:|:------:|
-| [**LootFlow**](https://github.com/spxmiguel/lootflow) | Personal finance tracker with AI-powered insights | `TypeScript` `React` `Firebase` `Electron` | ![active](https://img.shields.io/badge/active-7ee787?style=flat-square&labelColor=0d1117) |
-| [**SpxOpenCode**](https://github.com/spxmiguel/spxopencode) | Open source tooling for Brazilian devs | `TypeScript` `React` `Node.js` | ![beta](https://img.shields.io/badge/beta-f0c040?style=flat-square&labelColor=0d1117) |
-| [**CraftServer**](https://github.com/spxmiguel/craftserver) | Minecraft server management dashboard | `TypeScript` `Electron` `Node.js` | ![stable](https://img.shields.io/badge/stable-58a6ff?style=flat-square&labelColor=0d1117) |
-| [**Primeiros Minutos**](https://github.com/spxmiguel/primeiros-minutos) | Morning routine app | `TypeScript` `React` `Firebase` | ![active](https://img.shields.io/badge/active-7ee787?style=flat-square&labelColor=0d1117) |
-| [**GitHub Sanity Calculator**](https://spxmiguel.github.io/github-sanity-calculator/) | Pseudoscientific AI-powered mental health report for devs based on public GitHub data | `JavaScript` `GitHub API` `AI` | ![live](https://img.shields.io/badge/live-7ee787?style=flat-square&labelColor=0d1117) |
+| [**LootFlow**](https://github.com/spxmiguel/LootFlow) | Turns your CS2 weekly drops into real data — ROI, Prime accounts, goals, full drop history in a modern dashboard | `TypeScript` `React` `Electron` | ![active](https://img.shields.io/badge/active-7ee787?style=flat-square&labelColor=0d1117) |
+| [**SpxOpenCode**](https://github.com/spxmiguel/SpxOpenCode) | Opinionated OpenCode fork with better DX: auto-accept, YOLO mode, smart fallback, /doctor and more | `TypeScript` `Node.js` | ![beta](https://img.shields.io/badge/beta-f0c040?style=flat-square&labelColor=0d1117) |
+| [**CraftServer**](https://github.com/spxmiguel/CraftServer) | Minecraft server manager with GUI — Java, Bedrock & Hybrid support | `Electron` `Node.js` | ![stable](https://img.shields.io/badge/stable-58a6ff?style=flat-square&labelColor=0d1117) |
+| [**Primeiros Minutos**](https://github.com/spxmiguel/primeiros-minutos) | — | — | ![active](https://img.shields.io/badge/active-7ee787?style=flat-square&labelColor=0d1117) |
+| [**GitHub Sanity Calculator**](https://spxmiguel.github.io/github-sanity-calculator/) | Pseudoscientific AI-powered mental health report for devs based on public GitHub data | `JavaScript` `GitHub API` | ![live](https://img.shields.io/badge/live-7ee787?style=flat-square&labelColor=0d1117) |
 
 </div>
 
