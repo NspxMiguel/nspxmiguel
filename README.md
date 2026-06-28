@@ -58,7 +58,9 @@ const miguel = {
 **🔨 Currently Building**
 
 <!--START_SECTION:building-->
-- updating...
+- [**cs2-skin-radar**](https://github.com/spxmiguel/cs2-skin-radar) — 🎯 Live CS2 skin deal scanner — radar de preços abaixo do mercado
+- [**SpxOpenCode**](https://github.com/spxmiguel/SpxOpenCode) — SpxOpenCode — an opinionated OpenCode fork with enhanced DX: auto-accept, YOLO mode, smart fallback, /doctor, and more
+- [**Pilares-De-luz-trabalho-escolar**](https://github.com/spxmiguel/Pilares-De-luz-trabalho-escolar) — Trabalho - Miguel, Davi, Arthur
 <!--END_SECTION:building-->
 
 </td>
