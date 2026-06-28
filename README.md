@@ -26,7 +26,7 @@
 
 ```typescript
 const miguel = {
-  location:  "Brazil",
+  location:  "🇧🇷 Brazil",
   role:      "Idea guy who ships with AI",
   how:       "Claude Code + AI Agents do the heavy lifting",
   why:       "I build things because I wanted them to exist — and they didn't.",
