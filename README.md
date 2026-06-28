@@ -57,9 +57,9 @@ const miguel = {
 
 **🔨 Currently Building**
 
-- 💸 **LootFlow** — Financial intelligence app
-- 🧠 **BrainBox** — AI-powered knowledge tool
-- ⚡ **SpxOpenCode** — Open source hub
+<!--START_SECTION:building-->
+- updating...
+<!--END_SECTION:building-->
 
 </td>
 <td valign="top" width="50%">
