@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- WAVE HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-<!-- HERO -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Miguel+Ramthun+Moretti" alt="Miguel Ramthun Moretti" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=7EE787&center=true&vCenter=true&width=700&height=40&lines=I+build+things+with+AI;Ideas+%E2%86%92+Products;Vibe+Coder+%7C+Open+Source+%7C+%F0%9F%87%A7%F0%9F%87%B7+Brasil;Not+a+dev.+Just+someone+who+ships." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=7EE787&center=true&vCenter=true&width=700&height=40&lines=I+build+things+with+AI;Ideas+%E2%86%92+Products;Vibe+Coder+%7C+Open+Source+%7C+Brazil;Not+a+dev.+Just+someone+who+ships." alt="Typing SVG" />
 
 <br/>
 
@@ -20,7 +18,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ABOUT -->
 <div align="center">
 
 ### `~/about-me`
@@ -29,7 +26,7 @@
 
 ```typescript
 const miguel = {
-  location:  "🇧🇷 Brasil",
+  location:  "Brazil",
   role:      "Idea guy who ships with AI",
   how:       "Claude Code + AI Agents do the heavy lifting",
   why:       "I build things because I wanted them to exist — and they didn't.",
@@ -44,7 +41,6 @@ const miguel = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- NOW -->
 <div align="center">
 
 ### `~/now`
@@ -55,7 +51,7 @@ const miguel = {
 <tr>
 <td valign="top" width="50%">
 
-**🔨 Currently Building**
+**Currently Building**
 
 <!--START_SECTION:building-->
 - [**cs2-skin-radar**](https://github.com/spxmiguel/cs2-skin-radar) — 🎯 Live CS2 skin deal scanner — radar de preços abaixo do mercado
@@ -66,11 +62,11 @@ const miguel = {
 </td>
 <td valign="top" width="50%">
 
-**📖 Currently Learning**
+**Currently Learning**
 
-- 🔌 **MCP** — Model Context Protocol
-- 🤖 **AI Agents** — Autonomous systems
-- 💡 **How things actually work** — lol
+- **MCP** — Model Context Protocol
+- **AI Agents** — Autonomous systems
+- **How things actually work** — lol
 
 </td>
 </tr>
@@ -78,7 +74,6 @@ const miguel = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- PROJECTS -->
 <div align="center">
 
 ### `~/projects`
@@ -89,16 +84,15 @@ const miguel = {
 
 | Project | Description | Stack | Status |
 |:-------:|:-----------:|:-----:|:------:|
-| [**💸 LootFlow**](https://github.com/spxmiguel/lootflow) | Personal finance tracker with AI-powered insights | `TypeScript` `React` `Firebase` `Electron` | 🟢 Active |
-| [**⚡ SpxOpenCode**](https://github.com/spxmiguel/spxopencode) | Open source tooling for Brazilian devs | `TypeScript` `React` `Node.js` | 🟡 Beta |
-| [**🎮 CraftServer**](https://github.com/spxmiguel/craftserver) | Minecraft server management dashboard | `TypeScript` `Electron` `Node.js` | 🔵 Stable |
-| [**⏱️ Primeiros Minutos**](https://github.com/spxmiguel/primeiros-minutos) | Morning routine app | `TypeScript` `React` `Firebase` | 🟢 Active |
+| [**LootFlow**](https://github.com/spxmiguel/lootflow) | Personal finance tracker with AI-powered insights | `TypeScript` `React` `Firebase` `Electron` | ![active](https://img.shields.io/badge/active-7ee787?style=flat-square&labelColor=0d1117) |
+| [**SpxOpenCode**](https://github.com/spxmiguel/spxopencode) | Open source tooling for Brazilian devs | `TypeScript` `React` `Node.js` | ![beta](https://img.shields.io/badge/beta-f0c040?style=flat-square&labelColor=0d1117) |
+| [**CraftServer**](https://github.com/spxmiguel/craftserver) | Minecraft server management dashboard | `TypeScript` `Electron` `Node.js` | ![stable](https://img.shields.io/badge/stable-58a6ff?style=flat-square&labelColor=0d1117) |
+| [**Primeiros Minutos**](https://github.com/spxmiguel/primeiros-minutos) | Morning routine app | `TypeScript` `React` `Firebase` | ![active](https://img.shields.io/badge/active-7ee787?style=flat-square&labelColor=0d1117) |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- OPEN SOURCE -->
 <div align="center">
 
 ### `~/open-source`
@@ -119,37 +113,56 @@ const miguel = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- TOOLS I USE -->
 <div align="center">
 
-### `~/tools-i-actually-use`
+### `~/stack`
 
 </div>
 
 <div align="center">
 
-**My AI Stack**
+**AI**
 
 ![Claude](https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=anthropic&logoColor=D97757)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Protocol-0d1117?style=for-the-badge&logo=anthropic&logoColor=7EE787)
 
-**What the AI writes**
+**Frontend**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF)
+
+**Desktop**
+
 ![Electron](https://img.shields.io/badge/Electron-0d1117?style=for-the-badge&logo=electron&logoColor=47848F)
+![Tauri](https://img.shields.io/badge/Tauri-0d1117?style=for-the-badge&logo=tauri&logoColor=FFC131)
+
+**Backend & Runtime**
+
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Bun](https://img.shields.io/badge/Bun-0d1117?style=for-the-badge&logo=bun&logoColor=F9F1E1)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+
+**Database & Cloud**
+
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- STATS -->
 <div align="center">
 
 ### `~/stats`
@@ -177,7 +190,6 @@ const miguel = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- TIMELINE -->
 <div align="center">
 
 ### `~/timeline`
@@ -186,28 +198,27 @@ const miguel = {
 
 ```
 2023  ──────────────────────────────────────────────────────────────
-      ✦  Discovered I could build things without knowing how to code
-      ✦  First projects with AI assistance
+      ▸  Discovered I could build things without knowing how to code
+      ▸  First projects with AI assistance
 
 2024  ──────────────────────────────────────────────────────────────
-      ✦  Started going deep on AI tools
-      ✦  Claude Code, OpenAI, MCP — became my toolkit
-      ✦  First public repos on GitHub
+      ▸  Started going deep on AI tools
+      ▸  Claude Code, OpenAI, MCP — became my toolkit
+      ▸  First public repos on GitHub
 
 2025  ──────────────────────────────────────────────────────────────
-      ✦  Started Open Source journey
-      ✦  First PRs accepted on external projects
-      ✦  Shipped LootFlow, SpxOpenCode, CraftServer
+      ▸  Started Open Source journey
+      ▸  First PRs accepted on external projects
+      ▸  Shipped LootFlow, SpxOpenCode, CraftServer
 
 2026  ──────────────────────────────────────────────────────────────
-      ✦  Leaning deeper into AI Agents & MCP ecosystem
-      ✦  Building more, shipping faster
+      ▸  Leaning deeper into AI Agents & MCP ecosystem
+      ▸  Building more, shipping faster
       ◎  [ present ]
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- GOALS -->
 <div align="center">
 
 ### `~/goals`
@@ -216,23 +227,22 @@ const miguel = {
 
 <div align="center">
 
-| Status | Goal |
-|:------:|:-----|
-| ✅ | First project published |
-| ✅ | First PR accepted |
-| ✅ | First desktop app shipped |
-| ⬜ | 100 ⭐ on a project |
-| ⬜ | 500 ⭐ on a project |
-| ⬜ | GitHub Sponsors |
-| ⬜ | First SaaS product |
-| ⬜ | First dev job |
-| ⬜ | Actually understand what I'm shipping lol |
+| | Goal |
+|:---:|:-----|
+| ![done](https://img.shields.io/badge/-done-7ee787?style=flat-square&labelColor=0d1117) | First project published |
+| ![done](https://img.shields.io/badge/-done-7ee787?style=flat-square&labelColor=0d1117) | First PR accepted |
+| ![done](https://img.shields.io/badge/-done-7ee787?style=flat-square&labelColor=0d1117) | First desktop app shipped |
+| ![open](https://img.shields.io/badge/-open-555?style=flat-square&labelColor=0d1117) | 100 stars on a project |
+| ![open](https://img.shields.io/badge/-open-555?style=flat-square&labelColor=0d1117) | 500 stars on a project |
+| ![open](https://img.shields.io/badge/-open-555?style=flat-square&labelColor=0d1117) | GitHub Sponsors |
+| ![open](https://img.shields.io/badge/-open-555?style=flat-square&labelColor=0d1117) | First SaaS product |
+| ![open](https://img.shields.io/badge/-open-555?style=flat-square&labelColor=0d1117) | First dev job |
+| ![open](https://img.shields.io/badge/-open-555?style=flat-square&labelColor=0d1117) | Actually understand what I'm shipping lol |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- CONTACT -->
 <div align="center">
 
 ### `~/contact`
@@ -251,5 +261,4 @@ const miguel = {
 
 </div>
 
-<!-- WAVE FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" width="100%"/>
