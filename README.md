@@ -197,17 +197,31 @@ const miguel = {
 </div>
 
 ```
-before  ────────────────────────────────────────────────────────────
-        ▸  Tried to learn programming the traditional way
-        ▸  Never really clicked — couldn't connect theory to building
+2020  ──────────────────────────────────────────────────────────────
+      ▸  Got my first laptop — actually mine, for the first time
 
-2026    ────────────────────────────────────────────────────────────
-        ▸  Discovered AI could close the gap between idea and product
-        ▸  Built LootFlow — first real project, use it every day
-        ▸  Published first repos on GitHub
-        ▸  Made first open source PRs
-        ▸  Went deep on Claude Code and MCP ecosystem
-        ◎  [ present ] — shipping multiple projects in parallel
+2021  ──────────────────────────────────────────────────────────────
+      ▸  Learned everything there is to know about Windows
+      ▸  Bootable USBs, productivity shortcuts, power user stuff
+      ▸  Ctrl+Z, Alt+Tab, you name it — knew Windows inside out
+
+2022  ──────────────────────────────────────────────────────────────
+      ▸  Tried a block-based coding course (drag & drop logic)
+      ▸  Technically "programming" — barely counts, but it counts
+
+2023 – 2025  ───────────────────────────────────────────────────────
+      ▸  Played Fortnite and GTA
+      ▸  Procrastinated
+      ▸  School went in one ear and out the other
+      ▸  (this is accurate and I stand by it)
+
+Apr 2026  ──────────────────────────────────────────────────────────
+      ▸  Signed up for Claude Code — just to try it for a month
+      ▸  Got addicted immediately
+      ▸  Started running 2–3 AIs simultaneously (Claude, Codex, Antigravity)
+      ▸  School became the place where I plan projects in my notebook
+      ▸  Open 4 new projects per week, ship 1 — that's the ratio
+      ◎  [ present ] — still procrastinating, but shipping things now
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
