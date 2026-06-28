@@ -219,7 +219,7 @@ Apr 2026  ───────────────────────�
       ▸  Signed up for Claude Code — just to try it for a month
       ▸  Got addicted immediately
       ▸  Started running 2–3 AIs simultaneously (Claude, Codex, Antigravity)
-      ▸  School became my R&D lab — notebook full of project ideas
+      ▸  School is where I think about ideas and plan them in a notebook
       ▸  Still passing without studying (30 min the night before, max)
       ▸  Open 4 new projects per week, ship 1 — that's the ratio
       ◎  [ present ] — still procrastinating, but shipping things now
