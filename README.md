@@ -10,11 +10,11 @@
 
 <br/>
 
-[![Visits](https://komarev.com/ghpvc/?username=MiguelRamthunMoretti&color=7ee787&style=flat-square&label=profile+views)](https://github.com/MiguelRamthunMoretti)
+[![Visits](https://komarev.com/ghpvc/?username=spxmiguel&color=7ee787&style=flat-square&label=profile+views)](https://github.com/spxmiguel)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/MiguelRamthunMoretti?style=flat-square&color=7ee787&label=followers)](https://github.com/MiguelRamthunMoretti?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/spxmiguel?style=flat-square&color=7ee787&label=followers)](https://github.com/spxmiguel?tab=followers)
 &nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/MiguelRamthunMoretti?style=flat-square&color=7ee787&label=total+stars)](https://github.com/MiguelRamthunMoretti)
+[![GitHub stars](https://img.shields.io/github/stars/spxmiguel?style=flat-square&color=7ee787&label=total+stars)](https://github.com/spxmiguel)
 
 </div>
 
@@ -92,10 +92,10 @@ const miguel = {
 
 | Project | Description | Stack | Status |
 |:-------:|:-----------:|:-----:|:------:|
-| [**💸 LootFlow**](https://github.com/MiguelRamthunMoretti/lootflow) | Personal finance tracker with AI-powered insights and spending analysis | `TypeScript` `React` `Firebase` `Electron` | 🟢 Active |
-| [**⚡ SpxOpenCode**](https://github.com/MiguelRamthunMoretti/spxopencode) | Open source tooling and contributions platform for Brazilian devs | `TypeScript` `React` `Node.js` | 🟡 Beta |
-| [**🎮 CraftServer**](https://github.com/MiguelRamthunMoretti/craftserver) | Minecraft server management dashboard with real-time monitoring | `TypeScript` `Electron` `Node.js` `SQLite` | 🔵 Stable |
-| [**⏱️ Primeiros Minutos**](https://github.com/MiguelRamthunMoretti/primeiros-minutos) | Morning routine app to build productive daily habits | `TypeScript` `React` `Firebase` | 🟢 Active |
+| [**💸 LootFlow**](https://github.com/spxmiguel/lootflow) | Personal finance tracker with AI-powered insights and spending analysis | `TypeScript` `React` `Firebase` `Electron` | 🟢 Active |
+| [**⚡ SpxOpenCode**](https://github.com/spxmiguel/spxopencode) | Open source tooling and contributions platform for Brazilian devs | `TypeScript` `React` `Node.js` | 🟡 Beta |
+| [**🎮 CraftServer**](https://github.com/spxmiguel/craftserver) | Minecraft server management dashboard with real-time monitoring | `TypeScript` `Electron` `Node.js` `SQLite` | 🔵 Stable |
+| [**⏱️ Primeiros Minutos**](https://github.com/spxmiguel/primeiros-minutos) | Morning routine app to build productive daily habits | `TypeScript` `React` `Firebase` | 🟢 Active |
 
 </div>
 
@@ -115,9 +115,9 @@ const miguel = {
 
 | Repository | Contribution | Impact | Link |
 |:----------:|:------------:|:------:|:----:|
-| **OpenCode** | Bug fixes & feature additions to AI coding assistant | Core functionality improvement | [→ PR](https://github.com/sst/opencode/pulls?q=MiguelRamthunMoretti) |
-| **Community Tools** | MCP integrations and AI tooling | Ecosystem expansion | [→ Repos](https://github.com/MiguelRamthunMoretti?tab=repositories) |
-| **Personal Forks** | Active maintenance of forked projects | Extended lifespan of abandoned tools | [→ Stars](https://github.com/MiguelRamthunMoretti?tab=stars) |
+| **OpenCode** | Bug fixes & feature additions to AI coding assistant | Core functionality improvement | [→ PR](https://github.com/sst/opencode/pulls?q=spxmiguel) |
+| **Community Tools** | MCP integrations and AI tooling | Ecosystem expansion | [→ Repos](https://github.com/spxmiguel?tab=repositories) |
+| **Personal Forks** | Active maintenance of forked projects | Extended lifespan of abandoned tools | [→ Stars](https://github.com/spxmiguel?tab=stars) |
 
 </div>
 
@@ -186,20 +186,20 @@ const miguel = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelRamthunMoretti&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=7ee787&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelRamthunMoretti&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=spxmiguel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=7ee787&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spxmiguel&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MiguelRamthunMoretti&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=7ee787&ring=7ee787&fire=7ee787&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7ee787&sideLabels=7ee787&dates=c9d1d9" />
+<img src="https://streak-stats.demolab.com?user=spxmiguel&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=7ee787&ring=7ee787&fire=7ee787&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7ee787&sideLabels=7ee787&dates=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelRamthunMoretti&bg_color=0d1117&color=7ee787&line=7ee787&point=ffffff&area=true&area_color=7ee787&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spxmiguel&bg_color=0d1117&color=7ee787&line=7ee787&point=ffffff&area=true&area_color=7ee787&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
 </div>
 
@@ -276,7 +276,7 @@ const miguel = {
 
 [![Email](https://img.shields.io/badge/miguel.r.moretti.00@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:miguel.r.moretti.00@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/@MiguelRamthunMoretti-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelRamthunMoretti)
+[![GitHub](https://img.shields.io/badge/@spxmiguel-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spxmiguel)
 
 <br/>
 
