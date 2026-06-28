@@ -197,24 +197,17 @@ const miguel = {
 </div>
 
 ```
-2023  ──────────────────────────────────────────────────────────────
-      ▸  Discovered I could build things without knowing how to code
-      ▸  First projects with AI assistance
+before  ────────────────────────────────────────────────────────────
+        ▸  Tried to learn programming the traditional way
+        ▸  Never really clicked — couldn't connect theory to building
 
-2024  ──────────────────────────────────────────────────────────────
-      ▸  Started going deep on AI tools
-      ▸  Claude Code, OpenAI, MCP — became my toolkit
-      ▸  First public repos on GitHub
-
-2025  ──────────────────────────────────────────────────────────────
-      ▸  Started Open Source journey
-      ▸  First PRs accepted on external projects
-      ▸  Shipped LootFlow, SpxOpenCode, CraftServer
-
-2026  ──────────────────────────────────────────────────────────────
-      ▸  Leaning deeper into AI Agents & MCP ecosystem
-      ▸  Building more, shipping faster
-      ◎  [ present ]
+2026    ────────────────────────────────────────────────────────────
+        ▸  Discovered AI could close the gap between idea and product
+        ▸  Built LootFlow — first real project, use it every day
+        ▸  Published first repos on GitHub
+        ▸  Made first open source PRs
+        ▸  Went deep on Claude Code and MCP ecosystem
+        ◎  [ present ] — shipping multiple projects in parallel
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
