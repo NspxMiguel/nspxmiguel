@@ -32,11 +32,13 @@ const miguel = {
   location:  "🇧🇷 Brasil",
   role:      "Idea guy who ships with AI",
   how:       "Claude Code + AI Agents do the heavy lifting",
-  focus:     ["Vibe Coding", "Open Source", "Building real products"],
+  why:       "I build things because I wanted them to exist — and they didn't.",
+  audience:  "Mostly myself. But if it's useful to you, go ahead.",
   notGoodAt: ["algorithms", "memorizing syntax", "leetcode"],
   goodAt:    ["turning ideas into products", "prompting", "shipping"],
   building:  ["LootFlow", "BrainBox", "SpxOpenCode"],
-  belief:    "The best developer is the one who actually ships.",
+  learning:  "Studying programming properly — someday. For now, I build while I learn.",
+  honest:    "No time to study full-time right now. So I build first, understand later.",
 };
 ```
 
@@ -243,7 +245,7 @@ const miguel = {
 
 <br/>
 
-> *"I don't write the code. I write the prompts. The products are still real."*
+> *"I build things I wish existed. Not for anyone else — just because I wanted them to exist."*
 
 </div>
 
