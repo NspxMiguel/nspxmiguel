@@ -62,6 +62,17 @@ const miguel = {
 </td>
 <td valign="top" width="50%">
 
+**Contributing To**
+
+<!--START_SECTION:contributing-->
+- updating...
+<!--END_SECTION:contributing-->
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 **Currently Learning**
 
 - **MCP** — Model Context Protocol
