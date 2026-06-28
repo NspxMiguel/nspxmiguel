@@ -65,7 +65,9 @@ const miguel = {
 **Contributing To**
 
 <!--START_SECTION:contributing-->
-- updating...
+- [**Adirdabush1/cerberus**](https://github.com/Adirdabush1/cerberus/pull/6) — test: add raw + base64-exfil coverage for all token-shape patterns `[closed]`
+- [**Adirdabush1/cerberus**](https://github.com/Adirdabush1/cerberus/pull/5) — feat: add `cerberus rules validate` command to lint YAML rule files `[closed]`
+- [**rawveg/ollama-mcp**](https://github.com/rawveg/ollama-mcp/pull/24) — fix: forward MCP cancellation signal to Ollama HTTP requests `[closed]`
 <!--END_SECTION:contributing-->
 
 </td>
