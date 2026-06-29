@@ -56,7 +56,6 @@ const miguel = {
 <!--START_SECTION:building-->
 - [**cs2-skin-radar**](https://github.com/spxmiguel/cs2-skin-radar) — 🎯 Live CS2 skin deal scanner — radar de preços abaixo do mercado
 - [**SpxOpenCode**](https://github.com/spxmiguel/SpxOpenCode) — SpxOpenCode — an opinionated OpenCode fork with enhanced DX: auto-accept, YOLO mode, smart fallback, /doctor, and more
-- [**Pilares-De-luz-trabalho-escolar**](https://github.com/spxmiguel/Pilares-De-luz-trabalho-escolar) — Trabalho - Miguel, Davi, Arthur
 <!--END_SECTION:building-->
 
 </td>
@@ -65,9 +64,9 @@ const miguel = {
 **Contributing To**
 
 <!--START_SECTION:contributing-->
-- [**Adirdabush1/cerberus**](https://github.com/Adirdabush1/cerberus/pull/6) — test: add raw + base64-exfil coverage for all token-shape patterns `[closed]`
-- [**Adirdabush1/cerberus**](https://github.com/Adirdabush1/cerberus/pull/5) — feat: add `cerberus rules validate` command to lint YAML rule files `[closed]`
-- [**rawveg/ollama-mcp**](https://github.com/rawveg/ollama-mcp/pull/24) — fix: forward MCP cancellation signal to Ollama HTTP requests `[closed]`
+- [**YanivZalach/IceGraph**](https://github.com/YanivZalach/IceGraph/pull/60) — fix: remove redundant type field from node info panel `[closed]`
+- [**santifer/career-ops**](https://github.com/santifer/career-ops/pull/1277) — docs: add SUPPORTED_JOB_BOARDS.md with provider table `[closed]`
+- [**biswanathamz/wifi-observer**](https://github.com/biswanathamz/wifi-observer/pull/13) — test: add unit tests for core module `[closed]`
 <!--END_SECTION:contributing-->
 
 </td>
