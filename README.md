@@ -55,6 +55,7 @@ const miguel = {
 
 <!--START_SECTION:building-->
 - [**cs2-skin-radar**](https://github.com/spxmiguel/cs2-skin-radar) — 🎯 Live CS2 skin deal scanner — radar de preços abaixo do mercado
+- [**apple-music-rpc**](https://github.com/spxmiguel/apple-music-rpc) — Discord Rich Presence for Apple Music on Windows — shows your current track in Discord, just like Spotify
 - [**SpxOpenCode**](https://github.com/spxmiguel/SpxOpenCode) — SpxOpenCode — an opinionated OpenCode fork with enhanced DX: auto-accept, YOLO mode, smart fallback, /doctor, and more
 <!--END_SECTION:building-->
 
