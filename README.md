@@ -55,8 +55,8 @@ const miguel = {
 
 <!--START_SECTION:building-->
 - [**cs2-skin-radar**](https://github.com/spxmiguel/cs2-skin-radar) — 🎯 Live CS2 skin deal scanner — radar de preços abaixo do mercado
-- [**apple-music-rpc**](https://github.com/spxmiguel/apple-music-rpc) — Discord Rich Presence for Apple Music on Windows — shows your current track in Discord, just like Spotify
 - [**SpxOpenCode**](https://github.com/spxmiguel/SpxOpenCode) — SpxOpenCode — an opinionated OpenCode fork with enhanced DX: auto-accept, YOLO mode, smart fallback, /doctor, and more
+- [**LootFlow**](https://github.com/spxmiguel/LootFlow) — LootFlow transforma seus drops do CS2 em dados reais. Acompanhe ganhos, ROI, contas Prime, metas e histórico completo dos drops semanais em um dashboard moderno feito pra quem leva farm de CS2 a sério. Desenvolvido com ideias próprias e auxílio do Claude Code. 🚀
 <!--END_SECTION:building-->
 
 </td>
@@ -65,9 +65,9 @@ const miguel = {
 **Contributing To**
 
 <!--START_SECTION:contributing-->
+- [**MrSydar/tagbase**](https://github.com/MrSydar/tagbase/pull/7) — build: add make fmt target and document in CONTRIBUTING.md `[open]`
 - [**YanivZalach/IceGraph**](https://github.com/YanivZalach/IceGraph/pull/60) — fix: remove redundant type field from node info panel `[closed]`
 - [**santifer/career-ops**](https://github.com/santifer/career-ops/pull/1277) — docs: add SUPPORTED_JOB_BOARDS.md with provider table `[closed]`
-- [**biswanathamz/wifi-observer**](https://github.com/biswanathamz/wifi-observer/pull/13) — test: add unit tests for core module `[closed]`
 <!--END_SECTION:contributing-->
 
 </td>
