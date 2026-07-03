@@ -65,9 +65,9 @@ const miguel = {
 **Contributing To**
 
 <!--START_SECTION:contributing-->
+- [**Jolah1/ghostKey**](https://github.com/Jolah1/ghostKey/pull/207) — fix: use plain language in inherit portal hint `[closed]`
 - [**MrSydar/tagbase**](https://github.com/MrSydar/tagbase/pull/7) — build: add make fmt target and document in CONTRIBUTING.md `[open]`
 - [**YanivZalach/IceGraph**](https://github.com/YanivZalach/IceGraph/pull/60) — fix: remove redundant type field from node info panel `[closed]`
-- [**santifer/career-ops**](https://github.com/santifer/career-ops/pull/1277) — docs: add SUPPORTED_JOB_BOARDS.md with provider table `[closed]`
 <!--END_SECTION:contributing-->
 
 </td>
