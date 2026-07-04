@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Miguel+Ramthun+Moretti" alt="Miguel Ramthun Moretti" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=SPXMIGUEL" alt="SPXMIGUEL" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=7EE787&center=true&vCenter=true&width=700&height=40&lines=I+build+things+with+AI;Ideas+%E2%86%92+Products;Vibe+Coder+%7C+Open+Source+%7C+Brazil;Not+a+dev.+Just+someone+who+ships." alt="Typing SVG" />
 
