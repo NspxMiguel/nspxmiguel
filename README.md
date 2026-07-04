@@ -55,8 +55,8 @@ const miguel = {
 
 <!--START_SECTION:building-->
 - [**cs2-skin-radar**](https://github.com/spxmiguel/cs2-skin-radar) — 🎯 Live CS2 skin deal scanner — radar de preços abaixo do mercado
+- [**DiscoFlow**](https://github.com/spxmiguel/DiscoFlow) — Stream any music into Dead as Disco — no manual BPM, no sync headaches. Spotify, Deezer, Tidal, Apple Music and local files.
 - [**SpxOpenCode**](https://github.com/spxmiguel/SpxOpenCode) — SpxOpenCode — an opinionated OpenCode fork with enhanced DX: auto-accept, YOLO mode, smart fallback, /doctor, and more
-- [**LootFlow**](https://github.com/spxmiguel/LootFlow) — LootFlow transforma seus drops do CS2 em dados reais. Acompanhe ganhos, ROI, contas Prime, metas e histórico completo dos drops semanais em um dashboard moderno feito pra quem leva farm de CS2 a sério. Desenvolvido com ideias próprias e auxílio do Claude Code. 🚀
 <!--END_SECTION:building-->
 
 </td>
