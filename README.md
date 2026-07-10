@@ -55,8 +55,8 @@ const miguel = {
 
 <!--START_SECTION:building-->
 - [**cs2-skin-radar**](https://github.com/spxmiguel/cs2-skin-radar) — 🎯 Live CS2 skin deal scanner — radar de preços abaixo do mercado
-- [**lumens-browser**](https://github.com/spxmiguel/lumens-browser) — Lumen's Browser — Fast. Private. Yours. 🌌 Prealpha preview (Electron). Final target: native Chromium fork, no Electron.
-- [**SpxOpenCode**](https://github.com/spxmiguel/SpxOpenCode) — SpxOpenCode — an opinionated OpenCode fork with enhanced DX: auto-accept, YOLO mode, smart fallback, /doctor, and more
+- [**o-intruso**](https://github.com/spxmiguel/o-intruso) — No description yet
+- [**brave-debloat-kit**](https://github.com/spxmiguel/brave-debloat-kit) — No description yet
 <!--END_SECTION:building-->
 
 </td>
