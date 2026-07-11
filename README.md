@@ -33,7 +33,7 @@ const miguel = {
   audience:  "Mostly myself. But if it's useful to you, go ahead.",
   notGoodAt: ["algorithms", "memorizing syntax", "leetcode"],
   goodAt:    ["turning ideas into products", "prompting", "shipping"],
-  building:  ["LootFlow", "BrainBox", "SpxOpenCode"],
+  building:  ["LootFlow", "SpxOpenCode", "apple-music-discord-rpc"],
   learning:  "Studying programming properly — someday. For now, I build while I learn.",
   honest:    "No time to study full-time right now. So I build first, understand later.",
 };
@@ -65,8 +65,6 @@ const miguel = {
 **Contributing To**
 
 <!--START_SECTION:contributing-->
-- [**Jolah1/ghostKey**](https://github.com/Jolah1/ghostKey/pull/207) — fix: use plain language in inherit portal hint `[closed]`
-- [**MrSydar/tagbase**](https://github.com/MrSydar/tagbase/pull/7) — build: add make fmt target and document in CONTRIBUTING.md `[open]`
 - [**YanivZalach/IceGraph**](https://github.com/YanivZalach/IceGraph/pull/60) — fix: remove redundant type field from node info panel `[closed]`
 <!--END_SECTION:contributing-->
 
@@ -99,7 +97,9 @@ const miguel = {
 |:-------:|:-----------:|:-----:|:------:|
 | [**LootFlow**](https://github.com/spxmiguel/LootFlow) | Turns your CS2 weekly drops into real data — ROI, Prime accounts, goals, full drop history in a modern dashboard | `TypeScript` `React` `Electron` | ![active](https://img.shields.io/badge/active-7ee787?style=flat-square&labelColor=0d1117) |
 | [**SpxOpenCode**](https://github.com/spxmiguel/SpxOpenCode) | Opinionated OpenCode fork with better DX: auto-accept, YOLO mode, smart fallback, /doctor and more | `TypeScript` `Node.js` | ![beta](https://img.shields.io/badge/beta-f0c040?style=flat-square&labelColor=0d1117) |
+| [**apple-music-discord-rpc**](https://github.com/spxmiguel/apple-music-discord-rpc) | Discord Rich Presence for the Windows Apple Music app | `Batchfile` `Discord RPC` | ![active](https://img.shields.io/badge/active-7ee787?style=flat-square&labelColor=0d1117) |
 | [**CraftServer**](https://github.com/spxmiguel/CraftServer) | Minecraft server manager with GUI — Java, Bedrock & Hybrid support | `Electron` `Node.js` | ![stable](https://img.shields.io/badge/stable-58a6ff?style=flat-square&labelColor=0d1117) |
+| [**minecraft-web**](https://github.com/spxmiguel/minecraft-web) | Eagles Craft in the browser | `HTML` `WebGL2` | ![live](https://img.shields.io/badge/live-7ee787?style=flat-square&labelColor=0d1117) |
 | [**Oração do Dia**](https://github.com/spxmiguel/oracao-do-dia) | Christian mobile-first PWA — daily devotional, personalized prayer, private journal and consistency tracking | `PWA` `JavaScript` | ![live](https://img.shields.io/badge/live-7ee787?style=flat-square&labelColor=0d1117) |
 | [**GitHub Sanity Calculator**](https://spxmiguel.github.io/github-sanity-calculator/) | Pseudoscientific AI-powered mental health report for devs based on public GitHub data | `JavaScript` `GitHub API` | ![live](https://img.shields.io/badge/live-7ee787?style=flat-square&labelColor=0d1117) |
 
