@@ -206,37 +206,9 @@ const miguel = {
 
 <div align="center">
 
-### `~/timeline`
 
 </div>
 
-```
-2020  ──────────────────────────────────────────────────────────────
-      ▸  Got my first laptop — actually mine, for the first time
-
-2021  ──────────────────────────────────────────────────────────────
-      ▸  Learned everything there is to know about Windows
-      ▸  Bootable USBs, productivity shortcuts, power user stuff
-      ▸  Ctrl+Z, Alt+Tab, you name it — knew Windows inside out
-
-2022  ──────────────────────────────────────────────────────────────
-      ▸  Tried a block-based coding course (drag & drop logic)
-      ▸  Technically "programming" — barely counts, but it counts
-
-2023 – 2025  ───────────────────────────────────────────────────────
-      ▸  Played Fortnite and GTA
-      ▸  Procrastinated
-      ▸  School: in one ear, out the other — always
-      ▸  Spent class time in my head, thinking about projects
-
-Apr 2026  ──────────────────────────────────────────────────────────
-      ▸  Signed up for Claude Code — just to try it for a month
-      ▸  Got addicted immediately
-      ▸  Started running 2–3 AIs simultaneously (Claude, Codex, Antigravity)
-      ▸  School is where I think about ideas and plan them in a notebook
-      ▸  Still passing without studying (30 min the night before, max)
-      ▸  Open 4 new projects per week, ship 1 — that's the ratio
-      ◎  [ present ] — still procrastinating, but shipping things now
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
