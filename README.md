@@ -1,10 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f6ff,50:dbe9ff,100:f0f6ff&height=120&section=header&text=&animation=fadeIn" width="100%" alt="header" />
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=SPXMIGUEL" alt="SPXMIGUEL" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=SPXMIGUEL" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=1&pause=99999&color=0d1117&center=true&vCenter=true&width=700&height=70&lines=SPXMIGUEL" alt="SPXMIGUEL" />
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=7EE787&center=true&vCenter=true&width=700&height=40&lines=I+build+things+with+AI;Ideas+%E2%86%92+Products;Vibe+Coder+%7C+Open+Source+%7C+Brazil;Not+a+dev.+Just+someone+who+ships." alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=7EE787&center=true&vCenter=true&width=700&height=40&lines=I+build+things+with+AI;Ideas+%E2%86%92+Products;Vibe+Coder+%7C+Open+Source+%7C+Brazil;Not+a+dev.+Just+someone+who+ships." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=2da44e&center=true&vCenter=true&width=700&height=40&lines=I+build+things+with+AI;Ideas+%E2%86%92+Products;Vibe+Coder+%7C+Open+Source+%7C+Brazil;Not+a+dev.+Just+someone+who+ships." alt="Typing SVG" />
+</picture>
 
 <br/>
 
@@ -139,41 +148,41 @@ const miguel = {
 
 **AI**
 
-![Claude](https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=anthropic&logoColor=D97757)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Protocol-0d1117?style=for-the-badge&logo=anthropic&logoColor=7EE787)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Protocol-2da44e?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **Frontend**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 **Desktop**
 
-![Electron](https://img.shields.io/badge/Electron-0d1117?style=for-the-badge&logo=electron&logoColor=47848F)
-![Tauri](https://img.shields.io/badge/Tauri-0d1117?style=for-the-badge&logo=tauri&logoColor=FFC131)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 
 **Backend & Runtime**
 
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Bun](https://img.shields.io/badge/Bun-0d1117?style=for-the-badge&logo=bun&logoColor=F9F1E1)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-F9F1E1?style=for-the-badge&logo=bun&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Database & Cloud**
 
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **DevOps & Tools**
 
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GH_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -187,14 +196,23 @@ const miguel = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=spxmiguel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=7ee787&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spxmiguel&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=spxmiguel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=7ee787&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spxmiguel&show_icons=true&theme=default&hide_border=false&title_color=2da44e&icon_color=2da44e" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=spxmiguel&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spxmiguel&layout=compact&theme=default&hide_border=false&title_color=2da44e&langs_count=8" alt="Top Languages" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=spxmiguel&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=7ee787&ring=7ee787&fire=7ee787&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7ee787&sideLabels=7ee787&dates=c9d1d9" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=spxmiguel&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=7ee787&ring=7ee787&fire=7ee787&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7ee787&sideLabels=7ee787&dates=c9d1d9" />
+  <img src="https://streak-stats.demolab.com?user=spxmiguel&theme=default&hide_border=false&ring=2da44e&fire=2da44e&currStreakLabel=2da44e&sideLabels=2da44e" alt="GitHub Streak" />
+</picture>
 
 </div>
 
@@ -238,9 +256,9 @@ const miguel = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/miguel.r.moretti.00@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:miguel.r.moretti.00@gmail.com)
+[![Email](https://img.shields.io/badge/miguel.r.moretti.00@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguel.r.moretti.00@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/@spxmiguel-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spxmiguel)
+[![GitHub](https://img.shields.io/badge/@spxmiguel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spxmiguel)
 
 <br/>
 
@@ -248,4 +266,7 @@ const miguel = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f6ff,50:dbe9ff,100:f0f6ff&height=80&section=footer" width="100%" alt="footer" />
+</picture>
