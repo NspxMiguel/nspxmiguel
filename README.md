@@ -63,9 +63,9 @@ const miguel = {
 **Currently Building**
 
 <!--START_SECTION:building-->
-- [**LootFlow**](https://github.com/spxmiguel/LootFlow) — LootFlow transforma seus drops do CS2 em dados reais. Acompanhe ganhos, ROI, contas Prime, metas e histórico completo dos drops semanais em um dashboard moderno feito pra quem leva farm de CS2 a sério. Desenvolvido com ideias próprias e auxílio do Claude Code. 🚀
-- [**visualnscode**](https://github.com/spxmiguel/visualnscode) — No description yet
 - [**cs2-skin-radar**](https://github.com/spxmiguel/cs2-skin-radar) — 🎯 Live CS2 skin deal scanner — radar de preços abaixo do mercado
+- [**minecraft-web**](https://github.com/spxmiguel/minecraft-web) — Minecraft 1.12.2 no navegador — EaglercraftX, WebGL2, zero downloads, GitHub Pages
+- [**visualnscode**](https://github.com/spxmiguel/visualnscode) — No description yet
 <!--END_SECTION:building-->
 
 </td>
@@ -74,9 +74,9 @@ const miguel = {
 **Contributing To**
 
 <!--START_SECTION:contributing-->
+- [**ethanvillalovoz/scenariolens**](https://github.com/ethanvillalovoz/scenariolens/pull/7) — ci: add link-check script and CI step `[closed]`
+- [**MrSydar/tagbase**](https://github.com/MrSydar/tagbase/pull/7) — build: add make fmt target and document in CONTRIBUTING.md `[closed]`
 - [**Jolah1/ghostKey**](https://github.com/Jolah1/ghostKey/pull/207) — fix: use plain language in inherit portal hint `[closed]`
-- [**MrSydar/tagbase**](https://github.com/MrSydar/tagbase/pull/7) — build: add make fmt target and document in CONTRIBUTING.md `[open]`
-- [**YanivZalach/IceGraph**](https://github.com/YanivZalach/IceGraph/pull/60) — fix: remove redundant type field from node info panel `[closed]`
 <!--END_SECTION:contributing-->
 
 </td>
