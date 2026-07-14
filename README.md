@@ -64,8 +64,8 @@ const miguel = {
 
 <!--START_SECTION:building-->
 - [**cs2-skin-radar**](https://github.com/spxmiguel/cs2-skin-radar) — 🎯 Live CS2 skin deal scanner — radar de preços abaixo do mercado
-- [**minecraft-web**](https://github.com/spxmiguel/minecraft-web) — Minecraft 1.12.2 no navegador — EaglercraftX, WebGL2, zero downloads, GitHub Pages
-- [**visualnscode**](https://github.com/spxmiguel/visualnscode) — No description yet
+- [**kindle-shop**](https://github.com/spxmiguel/kindle-shop) — Browse and send free ebooks directly to your Kindle — no account needed
+- [**lumens-browser**](https://github.com/spxmiguel/lumens-browser) — Lumen's Browser — Fast. Private. Yours. 🌌 Prealpha preview (Electron). Final target: native Chromium fork, no Electron.
 <!--END_SECTION:building-->
 
 </td>
