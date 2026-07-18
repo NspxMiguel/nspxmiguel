@@ -64,7 +64,7 @@ const miguel = {
 
 <!--START_SECTION:building-->
 - [**cs2-skin-radar**](https://github.com/spxmiguel/cs2-skin-radar) — 🎯 Live CS2 skin deal scanner — radar de preços abaixo do mercado
-- [**kindle-shop**](https://github.com/spxmiguel/kindle-shop) — Browse and send free ebooks directly to your Kindle — no account needed
+- [**boomerang**](https://github.com/spxmiguel/boomerang) — Automated GitHub follower management with transparent logging and GDPR/LGPD compliance
 - [**lumens-browser**](https://github.com/spxmiguel/lumens-browser) — Lumen's Browser — Fast. Private. Yours. 🌌 Prealpha preview (Electron). Final target: native Chromium fork, no Electron.
 <!--END_SECTION:building-->
 
