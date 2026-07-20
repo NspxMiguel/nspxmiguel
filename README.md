@@ -11,8 +11,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=7EE787&center=true&vCenter=true&width=700&height=40&lines=Ideas+%E2%86%92+Products;Vibe+Coder+%7C+Open+Source+%7C+Brazil;Not+a+dev.+Just+someone+who+ships." />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=2da44e&center=true&vCenter=true&width=700&height=40&lines=Ideas+%E2%86%92+Products;Vibe+Coder+%7C+Open+Source+%7C+Brazil;Not+a+dev.+Just+someone+who+ships." alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=7EE787&center=true&vCenter=true&width=700&height=40&lines=Ideas+%E2%86%92+Products;Open+Source+%7C+Brazil;Not+a+dev.+Just+someone+who+ships." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=2da44e&center=true&vCenter=true&width=700&height=40&lines=Ideas+%E2%86%92+Products;Open+Source+%7C+Brazil;Not+a+dev.+Just+someone+who+ships." alt="Typing SVG" />
 </picture>
 
 <br/>
@@ -142,6 +142,11 @@ const miguel = {
 </div>
 
 <div align="center">
+
+**Tools**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Frontend**
 
