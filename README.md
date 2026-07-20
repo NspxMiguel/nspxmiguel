@@ -62,9 +62,9 @@ const miguel = {
 **Currently Building**
 
 <!--START_SECTION:building-->
+- [**boomerang**](https://github.com/spxmiguel/boomerang) — Automated GitHub follower management with transparent logging and GDPR/LGPD compliance
 - [**visualnscode**](https://github.com/spxmiguel/visualnscode) — No description yet
 - [**cs2-skin-radar**](https://github.com/spxmiguel/cs2-skin-radar) — 🎯 Live CS2 skin deal scanner — radar de preços abaixo do mercado
-- [**boomerang**](https://github.com/spxmiguel/boomerang) — Automated GitHub follower management with transparent logging and GDPR/LGPD compliance
 <!--END_SECTION:building-->
 
 </td>
