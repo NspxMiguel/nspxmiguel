@@ -11,8 +11,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=7EE787&center=true&vCenter=true&width=700&height=40&lines=I+build+things+with+AI;Ideas+%E2%86%92+Products;Vibe+Coder+%7C+Open+Source+%7C+Brazil;Not+a+dev.+Just+someone+who+ships." />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=2da44e&center=true&vCenter=true&width=700&height=40&lines=I+build+things+with+AI;Ideas+%E2%86%92+Products;Vibe+Coder+%7C+Open+Source+%7C+Brazil;Not+a+dev.+Just+someone+who+ships." alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=7EE787&center=true&vCenter=true&width=700&height=40&lines=Ideas+%E2%86%92+Products;Vibe+Coder+%7C+Open+Source+%7C+Brazil;Not+a+dev.+Just+someone+who+ships." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=2da44e&center=true&vCenter=true&width=700&height=40&lines=Ideas+%E2%86%92+Products;Vibe+Coder+%7C+Open+Source+%7C+Brazil;Not+a+dev.+Just+someone+who+ships." alt="Typing SVG" />
 </picture>
 
 <br/>
@@ -36,8 +36,7 @@
 ```typescript
 const miguel = {
   location:  "🇧🇷 Brazil",
-  role:      "Idea guy who ships with AI",
-  how:       "Claude Code + AI Agents do the heavy lifting",
+  role:      "Idea guy who ships",
   why:       "I build things because I wanted them to exist — and they didn't.",
   audience:  "Mostly myself. But if it's useful to you, go ahead.",
   notGoodAt: ["algorithms", "memorizing syntax", "leetcode"],
@@ -86,8 +85,6 @@ const miguel = {
 
 **Currently Learning**
 
-- **MCP** — Model Context Protocol
-- **AI Agents** — Autonomous systems
 - **How things actually work** — lol
 
 </td>
@@ -112,7 +109,7 @@ const miguel = {
 | [**CraftServer**](https://github.com/spxmiguel/CraftServer) | Minecraft server manager with GUI — Java, Bedrock & Hybrid support | `Electron` `Node.js` | ![stable](https://img.shields.io/badge/stable-58a6ff?style=flat-square&labelColor=0d1117) |
 | [**minecraft-web**](https://github.com/spxmiguel/minecraft-web) | Eagles Craft in the browser | `HTML` `WebGL2` | ![live](https://img.shields.io/badge/live-7ee787?style=flat-square&labelColor=0d1117) |
 | [**Oração do Dia**](https://github.com/spxmiguel/oracao-do-dia) | Christian mobile-first PWA — daily devotional, personalized prayer, private journal and consistency tracking | `PWA` `JavaScript` | ![live](https://img.shields.io/badge/live-7ee787?style=flat-square&labelColor=0d1117) |
-| [**GitHub Sanity Calculator**](https://spxmiguel.github.io/github-sanity-calculator/) | Pseudoscientific AI-powered mental health report for devs based on public GitHub data | `JavaScript` `GitHub API` | ![live](https://img.shields.io/badge/live-7ee787?style=flat-square&labelColor=0d1117) |
+| [**GitHub Sanity Calculator**](https://spxmiguel.github.io/github-sanity-calculator/) | Pseudoscientific mental health report for devs based on public GitHub data | `JavaScript` `GitHub API` | ![live](https://img.shields.io/badge/live-7ee787?style=flat-square&labelColor=0d1117) |
 
 </div>
 
@@ -131,8 +128,8 @@ const miguel = {
 
 | Repository | Contribution | Link |
 |:----------:|:------------:|:----:|
-| **OpenCode** | Bug fixes & improvements to AI coding assistant | [→ PRs](https://github.com/sst/opencode/pulls?q=spxmiguel) |
-| **Community Tools** | MCP integrations and AI tooling | [→ Repos](https://github.com/spxmiguel?tab=repositories) |
+| **OpenCode** | Bug fixes & improvements to coding assistant | [→ PRs](https://github.com/sst/opencode/pulls?q=spxmiguel) |
+| **Community Tools** | Integrations and dev tooling | [→ Repos](https://github.com/spxmiguel?tab=repositories) |
 
 </div>
 
@@ -145,12 +142,6 @@ const miguel = {
 </div>
 
 <div align="center">
-
-**AI**
-
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Protocol-2da44e?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **Frontend**
 
