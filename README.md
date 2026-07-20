@@ -193,12 +193,12 @@ const miguel = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=spxmiguel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=7ee787&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spxmiguel&show_icons=true&theme=default&hide_border=false&title_color=2da44e&icon_color=2da44e" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=spxmiguel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=7ee787&text_color=c9d1d9" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=spxmiguel&show_icons=true&theme=default&hide_border=false&title_color=2da44e&icon_color=2da44e" alt="GitHub Stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=spxmiguel&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&langs_count=8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spxmiguel&layout=compact&theme=default&hide_border=false&title_color=2da44e&langs_count=8" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=spxmiguel&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&langs_count=8" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=spxmiguel&layout=compact&theme=default&hide_border=false&title_color=2da44e&langs_count=8" alt="Top Languages" />
 </picture>
 
 </div>
