@@ -19,7 +19,7 @@
 
 [![Visits](https://komarev.com/ghpvc/?username=spxmiguel&color=7ee787&style=flat-square&label=profile+views)](https://github.com/spxmiguel)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/spxmiguel?style=flat-square&color=7ee787&label=followers)](https://github.com/spxmiguel?tab=followers)
+[![GitHub followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fspxmiguel&label=followers&query=followers&color=7ee787&style=flat-square)](https://github.com/spxmiguel?tab=followers)
 &nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/spxmiguel?style=flat-square&color=7ee787&label=total+stars)](https://github.com/spxmiguel)
 
