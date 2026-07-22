@@ -63,8 +63,8 @@ const miguel = {
 
 <!--START_SECTION:building-->
 - [**cs2-skin-radar**](https://github.com/spxmiguel/cs2-skin-radar) — 🎯 Live CS2 skin deal scanner — radar de preços abaixo do mercado
-- [**homebrew-tap**](https://github.com/spxmiguel/homebrew-tap) — Homebrew tap pessoal
 - [**mac-task-manager**](https://github.com/spxmiguel/mac-task-manager) — Gerenciador de Tarefas nativo para macOS, estilo Windows 11 (atalho global configuravel, padrao Cmd+Esc)
+- [**homebrew-tap**](https://github.com/spxmiguel/homebrew-tap) — Homebrew tap pessoal
 <!--END_SECTION:building-->
 
 </td>
