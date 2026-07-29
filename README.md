@@ -63,8 +63,8 @@ const miguel = {
 
 <!--START_SECTION:building-->
 - [**cs2-skin-radar**](https://github.com/spxmiguel/cs2-skin-radar) — 🎯 Live CS2 skin deal scanner — radar de preços abaixo do mercado
+- [**TrainerKit**](https://github.com/spxmiguel/TrainerKit) — Um app de Pokémon GO que decide em vez de só mostrar números. Lê o print da avaliação, dá um veredito e mostra o rastro.
 - [**lumens-browser**](https://github.com/spxmiguel/lumens-browser) — Lumen's Browser — Fast. Private. Yours. 🌌 Prealpha preview (Electron). Final target: native Chromium fork, no Electron.
-- [**visualnscode**](https://github.com/spxmiguel/visualnscode) — No description yet
 <!--END_SECTION:building-->
 
 </td>
