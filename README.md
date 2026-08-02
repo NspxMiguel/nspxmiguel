@@ -36,7 +36,7 @@ const miguel = {
 | [**Oração do Dia**](https://github.com/NspxMiguel/oracao-do-dia) · [live](https://nspxmiguel.github.io/oracao-do-dia/) | Christian PWA — daily devotional, private journal, streak tracking | `TypeScript` `Vite` `PWA` |
 | [**cs2-skin-radar**](https://github.com/NspxMiguel/cs2-skin-radar) · [live](https://nspxmiguel.github.io/cs2-skin-radar/) | Scans CS2 skin prices and surfaces the ones sitting below market | `JavaScript` `GitHub Actions` |
 
-<sub>[→ all repositories](https://github.com/spxmiguel?tab=repositories)</sub>
+<sub>[→ all repositories](https://github.com/NspxMiguel?tab=repositories)</sub>
 
 ---
 
