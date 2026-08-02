@@ -31,7 +31,7 @@ jobs:
               return json.loads(result.stdout)
 
           # --- Currently Building ---
-          repos = gh("users/spxmiguel/repos?sort=pushed&per_page=10&type=public")
+          repos = gh("users/NspxMiguel/repos?sort=pushed&per_page=10&type=public")
           repos = [r for r in repos if r["name"] != "spxmiguel" and not r["fork"]][:3]
           building_lines = "\n".join(
               f'- [**{r["name"]}**]({r["html_url"]}) — {r["description"] or "No description yet"}'
@@ -39,7 +39,7 @@ jobs:
           )
 
           # --- Contributing To ---
-          search = gh("search/issues?q=author:spxmiguel+type:pr+-user:spxmiguel&sort=updated&per_page=5")
+          search = gh("search/issues?q=author:NspxMiguel+type:pr+-user:NspxMiguel&sort=updated&per_page=5")
           prs = search.get("items", [])[:3]
           contributing_lines = "\n".join(
               f'- [**{pr["repository_url"].split("/")[-2]}/{pr["repository_url"].split("/")[-1]}**]({pr["html_url"]}) — {pr["title"]} `[{pr["state"]}]`'

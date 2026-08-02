@@ -27,14 +27,14 @@ const miguel = {
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| [**TrainerKit**](https://github.com/spxmiguel/TrainerKit) · [live](https://spxmiguel.github.io/TrainerKit/) | Reads your Pokémon GO appraisal screenshot and gives a verdict — not just numbers | `TypeScript` `React` `Vite` `PWA` |
-| [**LootFlow**](https://github.com/spxmiguel/LootFlow) | Turns CS2 weekly drops into real data: ROI, Prime accounts, goals, full history | `TypeScript` `React` `Electron` `Firebase` |
-| [**CraftServer**](https://github.com/spxmiguel/CraftServer) | Minecraft server manager with a GUI — 7 preconfigured game modes, plugin browser, playit.gg tunnel built in | `TypeScript` `React` `Electron` |
-| [**mac-task-manager**](https://github.com/spxmiguel/mac-task-manager) | Native macOS task manager, Windows 11 style, global shortcut. No Electron — actual Swift | `Swift` |
-| [**SpxOpenCode**](https://github.com/spxmiguel/SpxOpenCode) | Opinionated OpenCode fork: auto-accept, YOLO mode, smart fallback, `/doctor` | `TypeScript` `Bun` |
-| [**Lumen's Browser**](https://github.com/spxmiguel/lumens-browser) | Privacy-first browser without the crypto wallet, the news feed or the rewards program | `JavaScript` `Electron` |
-| [**Oração do Dia**](https://github.com/spxmiguel/oracao-do-dia) · [live](https://spxmiguel.github.io/oracao-do-dia/) | Christian PWA — daily devotional, private journal, streak tracking | `TypeScript` `Vite` `PWA` |
-| [**cs2-skin-radar**](https://github.com/spxmiguel/cs2-skin-radar) · [live](https://spxmiguel.github.io/cs2-skin-radar/) | Scans CS2 skin prices and surfaces the ones sitting below market | `JavaScript` `GitHub Actions` |
+| [**TrainerKit**](https://github.com/NspxMiguel/TrainerKit) · [live](https://nspxmiguel.github.io/TrainerKit/) | Reads your Pokémon GO appraisal screenshot and gives a verdict — not just numbers | `TypeScript` `React` `Vite` `PWA` |
+| [**LootFlow**](https://github.com/NspxMiguel/LootFlow) | Turns CS2 weekly drops into real data: ROI, Prime accounts, goals, full history | `TypeScript` `React` `Electron` `Firebase` |
+| [**CraftServer**](https://github.com/NspxMiguel/CraftServer) | Minecraft server manager with a GUI — 7 preconfigured game modes, plugin browser, playit.gg tunnel built in | `TypeScript` `React` `Electron` |
+| [**mac-task-manager**](https://github.com/NspxMiguel/mac-task-manager) | Native macOS task manager, Windows 11 style, global shortcut. No Electron — actual Swift | `Swift` |
+| [**SpxOpenCode**](https://github.com/NspxMiguel/SpxOpenCode) | Opinionated OpenCode fork: auto-accept, YOLO mode, smart fallback, `/doctor` | `TypeScript` `Bun` |
+| [**Lumen's Browser**](https://github.com/NspxMiguel/lumens-browser) | Privacy-first browser without the crypto wallet, the news feed or the rewards program | `JavaScript` `Electron` |
+| [**Oração do Dia**](https://github.com/NspxMiguel/oracao-do-dia) · [live](https://nspxmiguel.github.io/oracao-do-dia/) | Christian PWA — daily devotional, private journal, streak tracking | `TypeScript` `Vite` `PWA` |
+| [**cs2-skin-radar**](https://github.com/NspxMiguel/cs2-skin-radar) · [live](https://nspxmiguel.github.io/cs2-skin-radar/) | Scans CS2 skin prices and surfaces the ones sitting below market | `JavaScript` `GitHub Actions` |
 
 <sub>[→ all repositories](https://github.com/spxmiguel?tab=repositories)</sub>
 
@@ -69,7 +69,7 @@ Contributions merged into other people's projects:
 
 [![Email](https://img.shields.io/badge/spxmiguel@icloud.com-000000?style=for-the-badge&logo=apple&logoColor=white)](mailto:spxmiguel@icloud.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/@spxmiguel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spxmiguel)
+[![GitHub](https://img.shields.io/badge/@NspxMiguel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spxmiguel)
 
 <br/>
 
