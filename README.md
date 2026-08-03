@@ -1,10 +1,10 @@
 <div align="center">
 
-# spxmiguel
+# nspxmiguel
 
 **Ideas → Products** · Brazil 🇧🇷
 
-*Not a dev. Just someone who ships.*
+
 
 </div>
 
