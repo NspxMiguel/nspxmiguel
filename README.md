@@ -1,8 +1,8 @@
 <div align="center">
 
-# nspxmiguel
+# NspxMiguel
 
-**Ideas → Products** · Brazil 🇧🇷
+
 
 
 
