@@ -69,7 +69,7 @@ Contributions merged into other people's projects:
 
 [![Email](https://img.shields.io/badge/spxmiguel@icloud.com-000000?style=for-the-badge&logo=apple&logoColor=white)](mailto:spxmiguel@icloud.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/@NspxMiguel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spxmiguel)
+[![GitHub](https://img.shields.io/badge/@NspxMiguel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NspxMiguel)
 
 <br/>
 
