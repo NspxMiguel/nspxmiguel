@@ -27,14 +27,11 @@ const miguel = {
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| [**TrainerKit**](https://github.com/NspxMiguel/TrainerKit) · [live](https://nspxmiguel.github.io/TrainerKit/) | Reads your Pokémon GO appraisal screenshot and gives a verdict — not just numbers | `TypeScript` `React` `Vite` `PWA` |
-| [**LootFlow**](https://github.com/NspxMiguel/LootFlow) | Turns CS2 weekly drops into real data: ROI, Prime accounts, goals, full history | `TypeScript` `React` `Electron` `Firebase` |
-| [**CraftServer**](https://github.com/NspxMiguel/CraftServer) | Minecraft server manager with a GUI — 7 preconfigured game modes, plugin browser, playit.gg tunnel built in | `TypeScript` `React` `Electron` |
+| [**TrainerKit**](https://github.com/NspxMiguel/TrainerKit) · [live](https://www.nspx.dev/TrainerKit/) | Reads your Pokémon GO appraisal screenshot and gives a verdict — not just numbers | `TypeScript` `React` `Vite` `PWA` |
+| [**LootFlow**](https://github.com/NspxMiguel/LootFlow) · [live](https://www.nspx.dev/LootFlow/) | Turns CS2 weekly drops into real data: ROI, Prime accounts, goals, full history | `TypeScript` `React` `Electron` `Firebase` |
+| [**CraftServer**](https://github.com/NspxMiguel/CraftServer) · [live](https://www.nspx.dev/CraftServer/) | Minecraft server manager with a GUI — 7 preconfigured game modes, plugin browser, playit.gg tunnel built in | `TypeScript` `React` `Electron` |
 | [**mac-task-manager**](https://github.com/NspxMiguel/mac-task-manager) | Native macOS task manager, Windows 11 style, global shortcut. No Electron — actual Swift | `Swift` |
-| [**SpxOpenCode**](https://github.com/NspxMiguel/SpxOpenCode) | Opinionated OpenCode fork: auto-accept, YOLO mode, smart fallback, `/doctor` | `TypeScript` `Bun` |
-| [**Lumen's Browser**](https://github.com/NspxMiguel/lumens-browser) | Privacy-first browser without the crypto wallet, the news feed or the rewards program | `JavaScript` `Electron` |
-| [**Oração do Dia**](https://github.com/NspxMiguel/oracao-do-dia) · [live](https://nspxmiguel.github.io/oracao-do-dia/) | Christian PWA — daily devotional, private journal, streak tracking | `TypeScript` `Vite` `PWA` |
-| [**cs2-skin-radar**](https://github.com/NspxMiguel/cs2-skin-radar) · [live](https://nspxmiguel.github.io/cs2-skin-radar/) | Scans CS2 skin prices and surfaces the ones sitting below market | `JavaScript` `GitHub Actions` |
+| [**Oração do Dia**](https://github.com/NspxMiguel/oracao-do-dia) · [live](https://www.nspx.dev/oracao-do-dia/) | Christian PWA — daily devotional, private journal, streak tracking | `TypeScript` `Vite` `PWA` |
 
 <sub>[→ all repositories](https://github.com/NspxMiguel?tab=repositories)</sub>
 
