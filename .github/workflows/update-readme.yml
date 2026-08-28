@@ -39,12 +39,16 @@ jobs:
           )
 
           # --- Contributing To ---
-          search = gh("search/issues?q=author:NspxMiguel+type:pr+-user:NspxMiguel&sort=updated&per_page=5")
-          prs = search.get("items", [])[:3]
+          # Only merged pull requests, and only outside my own account. A README
+          # that lists work as accepted when it was not is worse than an empty
+          # section, so this asks the API instead of trusting anything written by
+          # hand — including by me.
+          search = gh("search/issues?q=author:NspxMiguel+type:pr+is:merged+-user:NspxMiguel&sort=updated&per_page=10")
+          prs = search.get("items", [])[:5]
           contributing_lines = "\n".join(
-              f'- [**{pr["repository_url"].split("/")[-2]}/{pr["repository_url"].split("/")[-1]}**]({pr["html_url"]}) — {pr["title"]} `[{pr["state"]}]`'
+              f'- [**{pr["repository_url"].split("/")[-2]}/{pr["repository_url"].split("/")[-1]}**]({pr["html_url"]}) — {pr["title"]}'
               for pr in prs
-          ) if prs else "- No external contributions yet"
+          ) if prs else "- Nothing merged yet."
 
           # --- Update README ---
           with open("README.md", "r") as f:
