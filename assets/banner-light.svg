@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-label="Miguel — indie builder shipping AI tools, native apps and useful software">
+  <defs>
+    <!-- Light theme is measured, not the dark one lightened: the accent drops a
+         step to the value nspx.dev already uses on paper (#177b8c), and the
+         lights get weaker because tint on near-white shows up twice as much. -->
+    <radialGradient id="lightTop" cx="18%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#177b8c" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#177b8c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="lightBottom" cx="88%" cy="110%" r="65%">
+      <stop offset="0%" stop-color="#3d5672" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#3d5672" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hairline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#17202a" stop-opacity="0"/>
+      <stop offset="22%" stop-color="#17202a" stop-opacity="0.14"/>
+      <stop offset="78%" stop-color="#17202a" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#17202a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="360" fill="#f4f6f5"/>
+  <rect width="1280" height="360" fill="url(#lightTop)"/>
+  <rect width="1280" height="360" fill="url(#lightBottom)"/>
+
+  <g transform="translate(96 132) scale(1.5)">
+    <path d="M14 45V19l36 26V19" fill="none" stroke="#17202a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M10 43c6 13 23 17 35 8 8-6 10-16 6-24" fill="none" stroke="#177b8c" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="51" cy="14" r="5" fill="#177b8c"/>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <text x="228" y="168" fill="#17202a" font-size="86" font-weight="800" letter-spacing="-2.8">Miguel</text>
+    <text x="232" y="216" fill="#596675" font-size="24" font-weight="400" letter-spacing="-0.3">Indie builder shipping AI tools, native apps, and useful software.</text>
+    <text x="1184" y="150" fill="#177b8c" font-size="13" font-weight="700" letter-spacing="1.6" text-anchor="end" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, monospace">NSPX.DEV</text>
+  </g>
+
+  <rect x="0" y="292" width="1280" height="1" fill="url(#hairline)"/>
+</svg>
