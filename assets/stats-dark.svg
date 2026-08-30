@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 250" width="1280" height="250" role="img" aria-label="25 public repositories, 1160 contributions in the last year, 8 languages, last push today">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 250" width="1280" height="250" role="img" aria-label="25 public repositories, 833 contributions in the last year, 8 languages, last push today">
 <rect width="1280" height="250" fill="#000000"/>
 <text x="96" y="76" fill="#ffffff" font-family="ui-monospace, &apos;SF Mono&apos;, &apos;JetBrains Mono&apos;, Menlo, Consolas, monospace" font-size="46" font-weight="700" letter-spacing="-1.5">25</text>
 <text x="98" y="104" fill="#9a9aa0" font-family="ui-monospace, &apos;SF Mono&apos;, &apos;JetBrains Mono&apos;, Menlo, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.4">PUBLIC REPOS</text>
-<text x="364" y="76" fill="#ffffff" font-family="ui-monospace, &apos;SF Mono&apos;, &apos;JetBrains Mono&apos;, Menlo, Consolas, monospace" font-size="46" font-weight="700" letter-spacing="-1.5">1 160</text>
+<text x="364" y="76" fill="#ffffff" font-family="ui-monospace, &apos;SF Mono&apos;, &apos;JetBrains Mono&apos;, Menlo, Consolas, monospace" font-size="46" font-weight="700" letter-spacing="-1.5">833</text>
 <text x="366" y="104" fill="#9a9aa0" font-family="ui-monospace, &apos;SF Mono&apos;, &apos;JetBrains Mono&apos;, Menlo, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.4">CONTRIBUTIONS, 12 MO</text>
 <text x="632" y="76" fill="#ffffff" font-family="ui-monospace, &apos;SF Mono&apos;, &apos;JetBrains Mono&apos;, Menlo, Consolas, monospace" font-size="46" font-weight="700" letter-spacing="-1.5">8</text>
 <text x="634" y="104" fill="#9a9aa0" font-family="ui-monospace, &apos;SF Mono&apos;, &apos;JetBrains Mono&apos;, Menlo, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.4">LANGUAGES</text>
