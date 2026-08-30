@@ -190,12 +190,16 @@ def render(data, theme_name):
     )
 
     offset = 0.0
-    for language, count in data["languages"]:
+    for index, (language, count) in enumerate(data["languages"]):
         segment = bar_w * (count / total)
+        last = index == len(data["languages"]) - 1
+        # Every segment but the last leaves a 3px gap; the last one runs to the
+        # end of the bar, so rounding never shows a sliver of empty track.
+        drawn = bar_w - offset if last else max(segment - 3, 2)
         colour = LANGUAGE_COLOURS.get(language, FALLBACK_COLOUR)
         parts.append(
             f'<rect x="{bar_x + offset:.1f}" y="{bar_y}" '
-            f'width="{max(segment - 3, 2):.1f}" height="{bar_h}" rx="4" fill="{colour}"/>'
+            f'width="{drawn:.1f}" height="{bar_h}" rx="4" fill="{colour}"/>'
         )
         offset += segment
 
