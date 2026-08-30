@@ -1,10 +1,10 @@
 <div align="center">
 
-# NspxMiguel
+# Miguel
 
+**Indie builder shipping AI tools, native apps, and useful software.**
 
-
-
+[Website](https://www.nspx.dev) · [Build notes](https://www.nspx.dev/artigos/) · [Email](mailto:miguel@nspx.dev)
 
 </div>
 
@@ -14,65 +14,56 @@
 
 ```typescript
 const miguel = {
-  why:      "I build things because I wanted them to exist — and they didn't.",
-  goodAt:   ["turning ideas into products", "shipping", "not stopping"],
-  notYet:   ["algorithms", "leetcode", "understanding half of it"],
-  approach: "Build first, understand later. It's working so far.",
+  builds: ["AI agent tools", "native macOS apps", "small useful software"],
+  principle: "If the tool I want doesn't exist, I build it and ship it.",
+  currentFocus: "giving local AI agents better tools and safer boundaries",
 };
 ```
 
 ---
 
-### `~/projects`
+### `~/featured`
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| [**TrainerKit**](https://github.com/NspxMiguel/TrainerKit) · [live](https://nspxmiguel.github.io/TrainerKit/) | Reads your Pokémon GO appraisal screenshot and gives a verdict — not just numbers | `TypeScript` `React` `Vite` `PWA` |
-| [**LootFlow**](https://github.com/NspxMiguel/LootFlow) | Turns CS2 weekly drops into real data: ROI, Prime accounts, goals, full history | `TypeScript` `React` `Electron` `Firebase` |
-| [**CraftServer**](https://github.com/NspxMiguel/CraftServer) | Minecraft server manager with a GUI — 7 preconfigured game modes, plugin browser, playit.gg tunnel built in | `TypeScript` `React` `Electron` |
-| [**mac-task-manager**](https://github.com/NspxMiguel/mac-task-manager) | Native macOS task manager, Windows 11 style, global shortcut. No Electron — actual Swift | `Swift` |
-| [**SpxOpenCode**](https://github.com/NspxMiguel/SpxOpenCode) | Opinionated OpenCode fork: auto-accept, YOLO mode, smart fallback, `/doctor` | `TypeScript` `Bun` |
-| [**Lumen's Browser**](https://github.com/NspxMiguel/lumens-browser) | Privacy-first browser without the crypto wallet, the news feed or the rewards program | `JavaScript` `Electron` |
-| [**Oração do Dia**](https://github.com/NspxMiguel/oracao-do-dia) · [live](https://nspxmiguel.github.io/oracao-do-dia/) | Christian PWA — daily devotional, private journal, streak tracking | `TypeScript` `Vite` `PWA` |
-| [**cs2-skin-radar**](https://github.com/NspxMiguel/cs2-skin-radar) · [live](https://nspxmiguel.github.io/cs2-skin-radar/) | Scans CS2 skin prices and surfaces the ones sitting below market | `JavaScript` `GitHub Actions` |
+| [**ia-team**](https://github.com/NspxMiguel/ia-team) | Runs local and API coding agents in parallel worktrees, then brings every patch back for review | `Shell` `Python` `Git` |
+| [**Reelay**](https://github.com/NspxMiguel/reelay) | Turns online video into scene-selected frames and a timestamped transcript an agent can read | `Python` `ffmpeg` `Whisper` |
+| [**NanoBridge**](https://github.com/NspxMiguel/NanoBridge) | Gives coding agents one CLI and MCP server for image generation and asset post-processing | `Python` `MCP` `Pillow` |
+| [**Nuvo**](https://github.com/NspxMiguel/Nuvo) | One local interface for local models, APIs and coding CLIs, with shared memory | `JavaScript` `Node.js` |
+| [**Cadenza**](https://github.com/NspxMiguel/Cadenza) | Native Apple Music Classical client for macOS — the app Apple never shipped | `Swift` `SwiftUI` `MusicKit` |
+| [**TrainerKit**](https://github.com/NspxMiguel/TrainerKit) · [live](https://www.nspx.dev/TrainerKit/) | Reads a Pokémon GO appraisal screenshot, gives a verdict and shows its reasoning | `TypeScript` `React` `PWA` |
 
-<sub>[→ all repositories](https://github.com/NspxMiguel?tab=repositories)</sub>
+<sub>[→ browse every project](https://www.nspx.dev/#sites)</sub>
 
 ---
 
 ### `~/open-source`
 
-Contributions merged into other people's projects:
+Contributions accepted into other people's projects. This list is written by a
+workflow that asks the GitHub API for pull requests I authored outside my own
+account and keeps only the merged ones — so it is never longer than the truth.
 
-| Project | Contribution |
-|:--|:--|
-| [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo) | [`#22336`](https://github.com/lingdojo/kana-dojo/pull/22336) 〜てしまう grammar tip · [`#22335`](https://github.com/lingdojo/kana-dojo/pull/22335) + [`#22337`](https://github.com/lingdojo/kana-dojo/pull/22337) content |
-| [**Jolah1/ghostKey**](https://github.com/Jolah1/ghostKey) | [`#207`](https://github.com/Jolah1/ghostKey/pull/207) plain language in the inherit portal hint |
-| [**biswanathamz/wifi-observer**](https://github.com/biswanathamz/wifi-observer) | [`#13`](https://github.com/biswanathamz/wifi-observer/pull/13) unit tests for the core module |
+<!--START_SECTION:contributing-->
+- Nothing merged yet.
+<!--END_SECTION:contributing-->
 
 ---
 
 ### `~/stack`
 
-**Daily**
-`TypeScript` · `React` · `Vite` · `Tailwind` · `Electron` · `Node.js`
+**Daily**  
+`TypeScript` · `React` · `Node.js` · `Python` · `Git`
 
-**Also shipped with**
-`Swift` · `Bun` · `Firebase` · `Next.js` · `Supabase` · `Python` · `GitHub Actions`
+**Also shipped with**  
+`Swift` · `Electron` · `Bun` · `Firebase` · `Supabase` · `GitHub Actions`
 
-**Built with**
-`Claude Code` — most of this was written pair-programming with an AI, and I'd rather say that than pretend otherwise.
+**Built with AI, reviewed by a human**  
+Most of this work is pair-programmed with coding agents. I say that openly, review the patches, and document the trade-offs.
 
 ---
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/spxmiguel@icloud.com-000000?style=for-the-badge&logo=apple&logoColor=white)](mailto:spxmiguel@icloud.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/@NspxMiguel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NspxMiguel)
-
-<br/>
-
-> *"I build things I wish existed. Not for anyone else — just because I wanted them to exist."*
+I publish short, practical notes about how these tools were built at **[nspx.dev/artigos](https://www.nspx.dev/artigos/)**.
 
 </div>
