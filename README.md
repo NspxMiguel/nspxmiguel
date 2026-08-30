@@ -1,10 +1,18 @@
 <div align="center">
 
-# Miguel
-
-**Indie builder shipping AI tools, native apps, and useful software.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NspxMiguel/nspxmiguel/main/assets/banner-dark.svg">
+  <img alt="Miguel — indie builder shipping AI tools, native apps, and useful software" src="https://raw.githubusercontent.com/NspxMiguel/nspxmiguel/main/assets/banner-light.svg" width="100%">
+</picture>
 
 [Website](https://www.nspx.dev) · [Build notes](https://www.nspx.dev/artigos/) · [Email](mailto:miguel@nspx.dev)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NspxMiguel/nspxmiguel/main/assets/stats-dark.svg">
+  <img alt="25 public repositories, contributions over the last twelve months, languages by repository count, and how recently something was pushed" src="https://raw.githubusercontent.com/NspxMiguel/nspxmiguel/main/assets/stats-light.svg" width="100%">
+</picture>
+
+<sub>Numbers redrawn every morning from the GitHub API — <a href="scripts/build_stats.py">how</a></sub>
 
 </div>
 
