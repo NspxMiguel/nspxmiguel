@@ -7,7 +7,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NspxMiguel/nspxmiguel/main/assets/stats-dark.svg">
-  <img alt="25 public repositories, contributions over the last twelve months, languages by repository count, and how recently something was pushed" src="https://raw.githubusercontent.com/NspxMiguel/nspxmiguel/main/assets/stats-light.svg" width="100%">
+  <img alt="Public repositories, contributions over the last twelve months, languages by repository count, and how recently something was pushed" src="https://raw.githubusercontent.com/NspxMiguel/nspxmiguel/main/assets/stats-light.svg" width="100%">
 </picture>
 
 [Website](https://www.nspx.dev) · [Build notes](https://www.nspx.dev/artigos/) · [Email](mailto:miguel@nspx.dev)
@@ -73,3 +73,11 @@ Most of this work is pair-programmed with coding agents. I say that openly, revi
 I publish short, practical notes about how these tools were built at **[nspx.dev/artigos](https://www.nspx.dev/artigos/)**.
 
 </div>
+
+---
+
+## Documentação
+
+Índice completo em [`docs/INDEX.md`](docs/INDEX.md).
+
+_Hub multi-repo: `~/Documents/Documentacao-Repos/INDEX.md` (atualizado 2026-08-31)._
