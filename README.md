@@ -32,12 +32,12 @@ const miguel = {
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| [**ia-team**](https://github.com/NspxMiguel/ia-team) | Runs local and API coding agents in parallel worktrees, then brings every patch back for review | `Shell` `Python` `Git` |
-| [**Reelay**](https://github.com/NspxMiguel/reelay) | Turns online video into scene-selected frames and a timestamped transcript an agent can read | `Python` `ffmpeg` `Whisper` |
-| [**NanoBridge**](https://github.com/NspxMiguel/NanoBridge) | Gives coding agents one CLI and MCP server for image generation and asset post-processing | `Python` `MCP` `Pillow` |
-| [**Nuvo**](https://github.com/NspxMiguel/Nuvo) | One local interface for local models, APIs and coding CLIs, with shared memory | `JavaScript` `Node.js` |
+| [**TrainerKit**](https://github.com/NspxMiguel/TrainerKit) · [live](https://www.nspx.dev/TrainerKit/) | Reads a Pokémon GO appraisal screenshot, gives a verdict and shows its reasoning | `TypeScript` `React Native` `PWA` |
+| [**Ostinato**](https://github.com/NspxMiguel/Ostinato) | A student planner whose reminders keep coming back until you actually answer them | `Swift` `Expo` `AlarmKit` |
 | [**Cadenza**](https://github.com/NspxMiguel/Cadenza) | Native Apple Music Classical client for macOS — the app Apple never shipped | `Swift` `SwiftUI` `MusicKit` |
-| [**TrainerKit**](https://github.com/NspxMiguel/TrainerKit) · [live](https://www.nspx.dev/TrainerKit/) | Reads a Pokémon GO appraisal screenshot, gives a verdict and shows its reasoning | `TypeScript` `React` `PWA` |
+| [**SwitchSaveSync**](https://github.com/NspxMiguel/SwitchSaveSync) | Nintendo Switch homebrew that backs game saves up to Google Drive in one button press | `C` `libnx` `devkitPro` |
+| [**Nuvo**](https://github.com/NspxMiguel/Nuvo) | One local interface for local models, APIs and coding CLIs, with shared memory | `JavaScript` `Node.js` |
+| [**claude-remote-control**](https://github.com/NspxMiguel/claude-remote-control) | Drive a coding agent on your own machine from your phone, over LAN or Tailscale | `JavaScript` `PWA` `WebSocket` |
 
 <sub>[→ browse every project](https://www.nspx.dev/#sites)</sub>
 
