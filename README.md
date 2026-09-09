@@ -1,13 +1,13 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NspxMiguel/nspxmiguel/main/assets/banner-dark.svg">
-  <img alt="Miguel — indie builder shipping AI tools, native apps, and useful software" src="https://raw.githubusercontent.com/NspxMiguel/nspxmiguel/main/assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.nspx.dev/assets/perfil/banner-dark.svg">
+  <img alt="Miguel — indie builder shipping AI tools, native apps, and useful software" src="https://www.nspx.dev/assets/perfil/banner-light.svg" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NspxMiguel/nspxmiguel/main/assets/stats-dark.svg">
-  <img alt="Public repositories, contributions over the last twelve months, languages by repository count, and how recently something was pushed" src="https://raw.githubusercontent.com/NspxMiguel/nspxmiguel/main/assets/stats-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.nspx.dev/assets/perfil/stats-dark.svg">
+  <img alt="Public repositories, contributions over the last twelve months, languages by repository count, and how recently something was pushed" src="https://www.nspx.dev/assets/perfil/stats-light.svg" width="100%">
 </picture>
 
 [Website](https://www.nspx.dev) · [Build notes](https://www.nspx.dev/artigos/) · [Email](mailto:miguel@nspx.dev)
