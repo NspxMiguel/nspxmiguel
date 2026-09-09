@@ -36,8 +36,8 @@ const miguel = {
 | [**Ostinato**](https://github.com/NspxMiguel/Ostinato) | A student planner whose reminders keep coming back until you actually answer them | `Swift` `Expo` `AlarmKit` |
 | [**Cadenza**](https://github.com/NspxMiguel/Cadenza) | Native Apple Music Classical client for macOS — the app Apple never shipped | `Swift` `SwiftUI` `MusicKit` |
 | [**SwitchSaveSync**](https://github.com/NspxMiguel/SwitchSaveSync) | Nintendo Switch homebrew that backs game saves up to Google Drive in one button press | `C` `libnx` `devkitPro` |
-| [**Nuvo**](https://github.com/NspxMiguel/Nuvo) | One local interface for local models, APIs and coding CLIs, with shared memory | `JavaScript` `Node.js` |
-| [**claude-remote-control**](https://github.com/NspxMiguel/claude-remote-control) | Drive a coding agent on your own machine from your phone, over LAN or Tailscale | `JavaScript` `PWA` `WebSocket` |
+| [**NanoBridge**](https://github.com/NspxMiguel/NanoBridge) | One CLI and MCP server that gives a coding agent image generation and asset post-processing | `Python` `MCP` `Pillow` |
+| [**mac-task-manager**](https://github.com/NspxMiguel/mac-task-manager) | Windows-style Task Manager for macOS — live processes, performance graphs, a global shortcut | `Swift` `AppKit` |
 
 <sub>[→ browse every project](https://www.nspx.dev/#sites)</sub>
 
