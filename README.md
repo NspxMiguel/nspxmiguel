@@ -73,11 +73,3 @@ Most of this work is pair-programmed with coding agents. I say that openly, revi
 I publish short, practical notes about how these tools were built at **[nspx.dev/artigos](https://www.nspx.dev/artigos/)**.
 
 </div>
-
----
-
-## Documentação
-
-Índice completo em [`docs/INDEX.md`](docs/INDEX.md).
-
-_Hub multi-repo: `~/Documents/Documentacao-Repos/INDEX.md` (atualizado 2026-08-31)._
