@@ -63,9 +63,6 @@ account and keeps only the merged ones — so it is never longer than the truth.
 **Also shipped with**  
 `Swift` · `Electron` · `Bun` · `Firebase` · `Supabase` · `GitHub Actions`
 
-**Built with AI, reviewed by a human**  
-Most of this work is pair-programmed with coding agents. I say that openly, review the patches, and document the trade-offs.
-
 ---
 
 <div align="center">
