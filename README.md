@@ -50,6 +50,7 @@ workflow that asks the GitHub API for pull requests I authored outside my own
 account and keeps only the merged ones — so it is never longer than the truth.
 
 <!--START_SECTION:contributing-->
+- [**felladrin/LinkedTimer**](https://github.com/felladrin/LinkedTimer/pull/1198) — Fix running timers when joining stopped rooms
 - [**litedb-org/LiteDB**](https://github.com/litedb-org/LiteDB/pull/2844) — Fix formatted ENSURE error messages
 - [**felladrin/LinkedTimer**](https://github.com/felladrin/LinkedTimer/pull/1196) — Fix stopped timers not starting during initial room sync
 <!--END_SECTION:contributing-->
