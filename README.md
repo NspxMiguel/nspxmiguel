@@ -50,9 +50,11 @@ workflow that asks the GitHub API for pull requests I authored outside my own
 account and keeps only the merged ones — so it is never longer than the truth.
 
 <!--START_SECTION:contributing-->
-- [**felladrin/LinkedTimer**](https://github.com/felladrin/LinkedTimer/pull/1198) — Fix running timers when joining stopped rooms
-- [**litedb-org/LiteDB**](https://github.com/litedb-org/LiteDB/pull/2844) — Fix formatted ENSURE error messages
-- [**felladrin/LinkedTimer**](https://github.com/felladrin/LinkedTimer/pull/1196) — Fix stopped timers not starting during initial room sync
+- [**mdn/translated-content**](https://github.com/mdn/translated-content/pull/38524) — fix(pt-BR): align number game identifiers with starter
+- [**mdn/translated-content**](https://github.com/mdn/translated-content/pull/38522) — fix(pt-BR): restore HTML basics diagrams
+- [**mdn/translated-content**](https://github.com/mdn/translated-content/pull/38525) — fix(pt-BR): replace broken text-overflow images
+- [**doronz88/pymobiledevice3**](https://github.com/doronz88/pymobiledevice3/pull/1948) — lockdown: Map common errors to dedicated exceptions
+- [**soran-ghaderi/torchebm**](https://github.com/soran-ghaderi/torchebm/pull/324) — Fix unusable contrastive divergence exports
 <!--END_SECTION:contributing-->
 
 ---
