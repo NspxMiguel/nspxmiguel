@@ -54,11 +54,11 @@ This list is written by a workflow that asks the GitHub API which of my pull req
 merged outside my own account. So it never gets longer than the truth.
 
 <!--START_SECTION:contributing-->
-- [**mdn/translated-content**](https://github.com/mdn/translated-content/pull/38524) — fix(pt-BR): align number game identifiers with starter
-- [**mdn/translated-content**](https://github.com/mdn/translated-content/pull/38522) — fix(pt-BR): restore HTML basics diagrams
-- [**mdn/translated-content**](https://github.com/mdn/translated-content/pull/38525) — fix(pt-BR): replace broken text-overflow images
-- [**doronz88/pymobiledevice3**](https://github.com/doronz88/pymobiledevice3/pull/1948) — lockdown: Map common errors to dedicated exceptions
-- [**soran-ghaderi/torchebm**](https://github.com/soran-ghaderi/torchebm/pull/324) — Fix unusable contrastive divergence exports
+- [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo/pull/32116) — content: add new japanese proverb
+- [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo/pull/32117) — content: add new japan fact
+- [**suhailopensource/prefID**](https://github.com/suhailopensource/prefID/pull/40) — chore: add .gitattributes to force LF line endings
+- [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo/pull/32101) — fix: repair invalid JSON in japan-trivia-medium.json
+- [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo/pull/32103) — content: add new trivia question
 <!--END_SECTION:contributing-->
 
 ### What I build with
