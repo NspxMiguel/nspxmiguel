@@ -54,11 +54,11 @@ This list is written by a workflow that asks the GitHub API which of my pull req
 merged outside my own account. So it never gets longer than the truth.
 
 <!--START_SECTION:contributing-->
+- [**suhailopensource/prefID**](https://github.com/suhailopensource/prefID/pull/45) — feat: add many() for batch ID generation
+- [**suhailopensource/prefID**](https://github.com/suhailopensource/prefID/pull/41) — feat: add opt-in strictPrefix option
+- [**suhailopensource/prefID**](https://github.com/suhailopensource/prefID/pull/43) — feat: add entropy and collision-probability helpers
+- [**suhailopensource/prefID**](https://github.com/suhailopensource/prefID/pull/42) — chore: pin publint and attw as devDependencies
 - [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo/pull/32116) — content: add new japanese proverb
-- [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo/pull/32117) — content: add new japan fact
-- [**suhailopensource/prefID**](https://github.com/suhailopensource/prefID/pull/40) — chore: add .gitattributes to force LF line endings
-- [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo/pull/32101) — fix: repair invalid JSON in japan-trivia-medium.json
-- [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo/pull/32103) — content: add new trivia question
 <!--END_SECTION:contributing-->
 
 ### What I build with
